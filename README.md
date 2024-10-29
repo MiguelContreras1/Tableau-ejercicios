@@ -1,1 +1,1 @@
-Ejercicios con Tableau para Business intelligence
+Ejercicios con Tableau para Business Intelligence
